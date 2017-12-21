@@ -3,7 +3,7 @@ title: Team Description Papers 2015
 ---
 ### RoboCup Rescue 2015 Team Description Papers (TDPs)
 
-[back to home](../) [2017 TDPs](../2017/) [2016 TDPs](../2016/)  [2015 TDPs](../2015/)
+[back to home](../) | [2017 TDPs](../2017/) | [2016 TDPs](../2016/) | [2015 TDPs](../2015/)
 
   *  [Champ2015_Austria_RRT_TDP.pdf](Champ2015_Austria_RRT_TDP.pdf)
   *  [Champ2015_CHINA_THEEXPLORERS_TDP.pdf](Champ2015_CHINA_THEEXPLORERS_TDP.pdf)

@@ -3,7 +3,7 @@ title: Team Description Papers 2016
 ---
 ### RoboCup Rescue 2016 Team Description Papers (TDPs)
 
-[back to home](../) [2017 TDPs](../2017/) [2016 TDPs](../2016/)  [2015 TDPs](../2015/)
+[back to home](../) | [2017 TDPs](../2017/) | [2016 TDPs](../2016/) | [2015 TDPs](../2015/)
 
 The 2016 TDPs can also be found on the [RoboCup 2016 webpage](http://www.robocup2016.org/de/symposium/team-description-papers/rescue-robot/).
 
