@@ -1,6 +1,5 @@
 ---
 title: Team Description Papers
-layout: none
 ---
 ## Welcome to the RoboCup Rescue Team Description pages
 
@@ -13,5 +12,6 @@ Only TDPs for teams that were accepted into the competition are published.
 
 TDPs for 2017: [2017](2017/)
 
+bla
 
 
