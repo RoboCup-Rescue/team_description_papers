@@ -1,3 +1,7 @@
+---
+title: Team Description Papers
+layout: post
+---
 ## Welcome to the RoboCup Rescue Team Description pages
 
 RoboCup Rescue Team Description Papers (TDPs) of the [RoboCup](http://robocup.org/) Rescue League will be published on this website. 
