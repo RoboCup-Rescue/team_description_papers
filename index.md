@@ -1,6 +1,6 @@
 ---
 title: Team Description Papers
-layout: post
+layout: none
 ---
 ## Welcome to the RoboCup Rescue Team Description pages
 
