@@ -1,3 +1,9 @@
+---
+title: Team Description Papers 2017
+---
+### RoboCup Rescue 2017 Team Description Papers (TDPs)
+
+[back to home](../)
 
   *	 [Champ2017_China_SEU-UniRobot_TDP.pdf](Champ2017_China_SEU-UniRobot_TDP.pdf)
   *	 [Champ2017_Germany_HectorDarmstadt_TDP.pdf](Champ2017_Germany_HectorDarmstadt_TDP.pdf)
