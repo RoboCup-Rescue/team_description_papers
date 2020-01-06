@@ -6,9 +6,7 @@ title: Team Description Papers
 RoboCup Rescue Team Description Papers (TDPs) of the [RoboCup](http://robocup.org/) Rescue League will be published on this website.
 Only TDPs for teams that were accepted into the competition are published - after the competition has happened.
 
-[Rescue League on the RoboCup Website](http://robocup.org/leagues/10)
-
-[Rescue League on the RoboCup Wiki](http://wiki.robocup.org/Robot_League)
+[Rescue League on the RoboCup Website](https://rrl.robocup.org/)
 
   *  TDPs from 2019 onward are avaialbe here: [tdp.robocup.org](https://tdp.robocup.org/)
   *  TDPs for 2018: [2018](2018/)
