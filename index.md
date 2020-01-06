@@ -10,6 +10,7 @@ Only TDPs for teams that were accepted into the competition are published - afte
 
 [Rescue League on the RoboCup Wiki](http://wiki.robocup.org/Robot_League)
 
+  *  TDPs from 2019 onward are avaialbe here: https://tdp.robocup.org/
   *  TDPs for 2018: [2018](2018/)
   *  TDPs for 2017: [2017](2017/)
   *  TDPs for 2016: [2016](2016/)
